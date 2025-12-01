@@ -1,0 +1,7 @@
+__pycache__/
+.env
+venv/
+FLIPKART_RECOMMENDER.egg-info/
+FULL DOCUMENTATION.md
+.DS_Store
+.ipynb_checkpoints
